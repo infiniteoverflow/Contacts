@@ -1,16 +1,11 @@
-# untitled
+# Contacts
 
-A new Flutter project.
+This app has only one feature : You can delete contacts from your phone easily.
 
-## Getting Started
+The app lists the contacts in your phone. It displays the name and their phone number(s). A delete button is provided to delete the contact.
 
-This project is a starting point for a Flutter application.
+Ps. I cant share the screenshots, as the contacts in my phone are kind-of personal :P
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Packages used:**
+- `contacts_service: ^0.6.3`
+- `permission_handler: ^8.2.5`
